@@ -1,0 +1,35 @@
+.background{
+background-image: url(./Images/OrtobomTeste.png);
+background-repeat: no-repeat;
+position: relative;
+height: 100vh;
+width: 100vw;
+
+}
+
+.titulo{
+   
+    
+    position: absolute;
+left: 45%;
+top: 20%;
+}
+
+.imagem1{
+height: 20%;
+width: 20%;
+position: absolute;
+left: 90px;
+top:250px
+}
+
+.imagem2{
+    align-items: center;
+    justify-content:center ;
+    text-align: center;
+    height: 20%;
+    width: 20%;
+    position: absolute;
+    left: 950px;
+    top:250px
+    }
